@@ -1,4 +1,10 @@
+The course uses Eclipse IDE, and there are very detailed instructions in the course.
+<br/>However, I used to use IntelliJ for Java Programming. 
+<br/>So, here, I will write a full instructions step by step every problem that I met to run this first assignment project.
+
 ## How To Setup in IntelliJ?
+
+After you [DOWNLOAD IntelliJ](https://www.jetbrains.com/idea/), Install and Open IntelliJ.
 ### 1. Import Project 
 * "UCSDUnfoldingMaps"
 * Open "src", Module 1 "HelloWorld"

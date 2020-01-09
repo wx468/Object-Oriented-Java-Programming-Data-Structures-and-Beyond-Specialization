@@ -1,0 +1,6 @@
+** Test #1: Testing short path...Your path was: pool, spool, spoon.
+** Test #2: Testing long path...Your path was: stools, spools, spoons, spoon, soon, moon.
+** Test #3: Testing impossible path...Your path was: foal, coal, cal, hal, hale, haled, healed, heeled, heeded, needed, needled, needles, needless.
+** Test #4: Testing using a nonexistent word...Your path was: needle, needled, needed, heeded, headed, heated, heater, beater, better, bitter, bitten, kitten.
+** Test #4: Testing using a nonexistent word...Your path was: .
+Tests complete. Make sure everything looks right.
